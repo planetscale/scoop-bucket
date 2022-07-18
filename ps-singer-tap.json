@@ -1,0 +1,24 @@
+{
+    "version": "0.4.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/planetscale/singer-tap/releases/download/v0.4.0/ps-singer-tap_0.4.0_windows_386.tar.gz",
+            "bin": [
+                "ps-singer-tap.exe",
+                "ps-http-tap.exe"
+            ],
+            "hash": "50d45f1521fab76101a9e11dc870eb18ba18756634a1035e4f95804aac1015e9"
+        },
+        "64bit": {
+            "url": "https://github.com/planetscale/singer-tap/releases/download/v0.4.0/ps-singer-tap_0.4.0_windows_amd64.tar.gz",
+            "bin": [
+                "ps-singer-tap.exe",
+                "ps-http-tap.exe"
+            ],
+            "hash": "4a3d973ea62392ba2424ecb25a7ad2e02fd8a98b60bc14b006840d87ce55f90b"
+        }
+    },
+    "homepage": "https://github.com/planetscale/singer-tap",
+    "license": "Apache 2.0",
+    "description": "The PlanetScale Singer.io Tap"
+}
