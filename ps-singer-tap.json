@@ -1,21 +1,21 @@
 {
-    "version": "0.5.0",
+    "version": "0.6.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/planetscale/singer-tap/releases/download/v0.5.0/ps-singer-tap_0.5.0_windows_386.tar.gz",
+            "url": "https://github.com/planetscale/singer-tap/releases/download/v0.6.0/ps-singer-tap_0.6.0_windows_386.tar.gz",
             "bin": [
                 "ps-singer-tap.exe",
                 "ps-http-tap.exe"
             ],
-            "hash": "1ae7a039e7de515aa09c9dc26e54fef613c1cad8ac995bb5019db9857f25742e"
+            "hash": "c99be44c389657948044b0f1a891e1931ecd595dc41f3c70b9c0c240ac829f06"
         },
         "64bit": {
-            "url": "https://github.com/planetscale/singer-tap/releases/download/v0.5.0/ps-singer-tap_0.5.0_windows_amd64.tar.gz",
+            "url": "https://github.com/planetscale/singer-tap/releases/download/v0.6.0/ps-singer-tap_0.6.0_windows_amd64.tar.gz",
             "bin": [
                 "ps-singer-tap.exe",
                 "ps-http-tap.exe"
             ],
-            "hash": "a882c8ee9b12fb1fdc5d6afa1902c881e5d8ade9d6ff16accf1b5cd48b5656ce"
+            "hash": "09c83695dd091f65697eedf5affddadca10f059b955779e58cf1b7cb9fd925bd"
         }
     },
     "homepage": "https://github.com/planetscale/singer-tap",
