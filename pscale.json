@@ -1,26 +1,26 @@
 {
-    "version": "0.210.0",
+    "version": "0.211.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/planetscale/cli/releases/download/v0.210.0/pscale_0.210.0_windows_386.zip",
+            "url": "https://github.com/planetscale/cli/releases/download/v0.211.0/pscale_0.211.0_windows_386.zip",
             "bin": [
                 "pscale.exe"
             ],
-            "hash": "581c385949687396440916ac5577efb428299dd80fb3a7b64f0b1dafba2e3af5"
+            "hash": "5f724e355ef9de8d8b12b968dc522e9ecb82dbabe1b25f39b1b222dc7cc549ba"
         },
         "64bit": {
-            "url": "https://github.com/planetscale/cli/releases/download/v0.210.0/pscale_0.210.0_windows_amd64.zip",
+            "url": "https://github.com/planetscale/cli/releases/download/v0.211.0/pscale_0.211.0_windows_amd64.zip",
             "bin": [
                 "pscale.exe"
             ],
-            "hash": "e149f64e71aaed23b8ef44d8f9ce47d88e123de7f6b38724bd76918ece13a1a9"
+            "hash": "68f698aa2a62183f1fa67e2cb0f233043c3361648da23f0e182b8ae20b3d97f7"
         },
         "arm64": {
-            "url": "https://github.com/planetscale/cli/releases/download/v0.210.0/pscale_0.210.0_windows_arm64.zip",
+            "url": "https://github.com/planetscale/cli/releases/download/v0.211.0/pscale_0.211.0_windows_arm64.zip",
             "bin": [
                 "pscale.exe"
             ],
-            "hash": "f8730a757a7c6965b45b9537aba960c7c82bef433b17bbeacf3d818556994b24"
+            "hash": "dee89d506f605bb4e5be9b79688dc4417ce57f8bba1f817a7c5afee2bd0d6a4a"
         }
     },
     "homepage": "https://github.com/planetscale/cli",
